@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="GBK">
+    <file url="file://$PROJECT_DIR$/src/main/java/RMIClient.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/RMIRemoteService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/RMIRemoteServiceImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/RMIServer.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/fastjson/User.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/rmi" charset="UTF-8" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
