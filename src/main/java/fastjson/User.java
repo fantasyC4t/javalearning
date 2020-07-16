@@ -1,14 +1,23 @@
 package fastjson;
 
+import java.io.Serializable;
+import java.util.HashMap;
 import java.util.Map;
 
 /**
  * @author huanmao.sjc
  * @version $Id: User, v 0.1 2020-01-02 12:06 PM th1s Exp $
  */
-public class User {
+public class User implements Comparable {
     private Long   id;
     private String name;
+
+    @Override
+    public int compareTo(Object o) {
+        return 0;
+    }
+
+    public void close() throws Exception {}
 
     public User() {
         System.out.println("无参构造函数调用");

@@ -4,7 +4,9 @@
  */
 public class testfather {
 
-    public testfather(){
+    public String name;
 
+    public testfather(){
+        this.name = "testfather";
     }
 }

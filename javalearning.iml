@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration />
+    </facet>
+  </component>
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_6">
     <output url="file://$MODULE_DIR$/target/classes" />
     <output-test url="file://$MODULE_DIR$/target/test-classes" />
@@ -12,9 +17,62 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="mysql-connector-java-5.1.35" level="project" />
-    <orderEntry type="library" name="Maven: com.alibaba:fastjson:1.2.63" level="project" />
+    <orderEntry type="library" name="riskscan" level="application" />
+    <orderEntry type="library" name="riskscan (3)" level="application" />
+    <orderEntry type="library" name="Maven: com.alibaba:fastjson:1.2.69" level="project" />
     <orderEntry type="library" name="Maven: com.alipay.service:alipay-service-security:2.1.5" level="project" />
     <orderEntry type="library" name="Maven: mysql:mysql-connector-java:5.1.46" level="project" />
     <orderEntry type="library" name="Maven: io.github.codeplutos:annotation-exploit:2.1.0" level="project" />
+    <orderEntry type="library" name="Maven: com.taobao.tbbpm:tbbpm-process:2.2.0.1-CICADAX-20200213" level="project" />
+    <orderEntry type="library" name="Maven: com.taobao.tbbpm:tbbpm-define:2.2.0.1-CICADAX-20200213" level="project" />
+    <orderEntry type="library" name="Maven: com.taobao.tbbpm:tbbpm-define-persistence:2.2.0.1-CICADAX-20200213" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.jdt.core.compiler:ecj:4.4.2" level="project" />
+    <orderEntry type="library" name="Maven: org.mybatis.generator:mybatis-generator-core:1.3.1" level="project" />
+    <orderEntry type="library" name="Maven: com.thoughtworks.xstream:xstream:1.4.9" level="project" />
+    <orderEntry type="library" name="Maven: xmlpull:xmlpull:1.1.3.1" level="project" />
+    <orderEntry type="library" name="Maven: xpp3:xpp3_min:1.1.4c" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring:99.0-does-not-exist" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.springframework:spring-test:4.3.5.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-core:4.3.5.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-context-support:4.3.5.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-beans:4.3.5.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-context:4.3.5.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-aop:4.3.5.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-expression:4.3.5.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.codehaus.groovy:org.codehaus.groovy.all:1.8.9.cloudengine4" level="project" />
+    <orderEntry type="library" name="Maven: commons-beanutils:commons-beanutils:1.9.2" level="project" />
+    <orderEntry type="library" name="Maven: commons-logging:commons-logging:1.1.1" level="project" />
+    <orderEntry type="library" name="Maven: commons-collections:commons-collections:3.2.1" level="project" />
+    <orderEntry type="library" name="Maven: com.alipay.fc.paramcore:fcparamcore-common-service-newcache-client:1.2.1.20200401" level="project" />
+    <orderEntry type="library" name="Maven: com.mybank.security.groovy:sandbox:1.6" level="project" />
+    <orderEntry type="library" name="Maven: com.alibaba.toolkit.common:toolkit-common-logging:1.0" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.tomcat:tomcat-catalina:10.0.0-M4" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.tomcat:tomcat-servlet-api:10.0.0-M4" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.tomcat:tomcat-jsp-api:10.0.0-M4" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.tomcat:tomcat-el-api:10.0.0-M4" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.tomcat:tomcat-juli:10.0.0-M4" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.tomcat:tomcat-annotations-api:10.0.0-M4" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.tomcat:tomcat-api:10.0.0-M4" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.tomcat:tomcat-jni:10.0.0-M4" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.tomcat:tomcat-coyote:10.0.0-M4" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.tomcat:tomcat-util:10.0.0-M4" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.tomcat:tomcat-util-scan:10.0.0-M4" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.tomcat:tomcat-jaspic-api:10.0.0-M4" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.tomcat:tomcat-catalina-ha:10.0.0-M5" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.tomcat:tomcat-tribes:10.0.0-M5" level="project" />
+    <orderEntry type="library" name="Maven: org.yaml:snakeyaml:1.23" level="project" />
+    <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.8.8" level="project" />
+    <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-core:2.8.8" level="project" />
+    <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.8.8" level="project" />
+    <orderEntry type="library" name="Maven: com.fasterxml.jackson.module:jackson-module-jaxb-annotations:2.8.8" level="project" />
+    <orderEntry type="library" name="Maven: com.fasterxml.jackson.datatype:jackson-datatype-guava:2.8.8" level="project" />
+    <orderEntry type="library" name="Maven: com.google.guava:guava:16.0" level="project" />
+    <orderEntry type="library" name="Maven: com.fasterxml.jackson.datatype:jackson-datatype-joda:2.8.8" level="project" />
+    <orderEntry type="library" name="Maven: joda-time:joda-time:2.7" level="project" />
+    <orderEntry type="library" name="Maven: com.fasterxml.jackson.jaxrs:jackson-jaxrs-json-provider:2.8.8" level="project" />
+    <orderEntry type="library" name="Maven: com.fasterxml.jackson.jaxrs:jackson-jaxrs-base:2.8.8" level="project" />
+    <orderEntry type="library" name="Maven: com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:2.8.8" level="project" />
+    <orderEntry type="library" name="Maven: com.alipay.mobilegw:mobilegw-server:1.0.0.20190926" level="project" />
+    <orderEntry type="library" name="Maven: commons-io:commons-io:2.5" level="project" />
   </component>
 </module>

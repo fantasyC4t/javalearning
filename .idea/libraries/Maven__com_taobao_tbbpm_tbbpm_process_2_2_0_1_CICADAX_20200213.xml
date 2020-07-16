@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.taobao.tbbpm:tbbpm-process:2.2.0.1-CICADAX-20200213">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/taobao/tbbpm/tbbpm-process/2.2.0.1-CICADAX-20200213/tbbpm-process-2.2.0.1-CICADAX-20200213.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/taobao/tbbpm/tbbpm-process/2.2.0.1-CICADAX-20200213/tbbpm-process-2.2.0.1-CICADAX-20200213-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/taobao/tbbpm/tbbpm-process/2.2.0.1-CICADAX-20200213/tbbpm-process-2.2.0.1-CICADAX-20200213-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

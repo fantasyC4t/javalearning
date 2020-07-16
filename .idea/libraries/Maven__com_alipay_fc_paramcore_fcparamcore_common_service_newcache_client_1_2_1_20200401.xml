@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.alipay.fc.paramcore:fcparamcore-common-service-newcache-client:1.2.1.20200401">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/alipay/fc/paramcore/fcparamcore-common-service-newcache-client/1.2.1.20200401/fcparamcore-common-service-newcache-client-1.2.1.20200401.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/alipay/fc/paramcore/fcparamcore-common-service-newcache-client/1.2.1.20200401/fcparamcore-common-service-newcache-client-1.2.1.20200401-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/alipay/fc/paramcore/fcparamcore-common-service-newcache-client/1.2.1.20200401/fcparamcore-common-service-newcache-client-1.2.1.20200401-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
