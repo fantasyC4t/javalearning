@@ -145,7 +145,7 @@
         <dependency>
             <groupId>org.yaml</groupId>
             <artifactId>snakeyaml</artifactId>
-            <version>1.23</version>
+            <version>1.27</version>
         </dependency>
 
 
@@ -206,6 +206,43 @@
             <groupId>commons-io</groupId>
             <artifactId>commons-io</artifactId>
             <version>2.5</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.jvnet</groupId>
+            <artifactId>tiger-types</artifactId>
+            <version>LATEST</version>
+        </dependency>
+
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>4.9</version>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/com.jcraft/com.jcraft.jsch -->
+        <dependency>
+            <groupId>com.jcraft.jsch</groupId>
+            <artifactId>com.springsource.com.jcraft.jsch</artifactId>
+            <version>0.1.41</version>
+        </dependency>
+
+<!--        <dependency>-->
+<!--            <groupId>org.jenkins-ci.plugins</groupId>-->
+<!--            <artifactId>script-security</artifactId>-->
+<!--            <version>1.73</version>-->
+<!--        </dependency>-->
+
+        <!-- https://mvnrepository.com/artifact/org.apache.struts/struts2-core -->
+        <dependency>
+            <groupId>org.apache.struts</groupId>
+            <artifactId>struts2-core</artifactId>
+            <version>2.5.22</version>
+        </dependency>
+
+        <dependency>
+            <groupId>com.alipay.common</groupId>
+            <artifactId>alipay-common-lang</artifactId>
+            <version>2.2.22</version>
         </dependency>
     </dependencies>
 

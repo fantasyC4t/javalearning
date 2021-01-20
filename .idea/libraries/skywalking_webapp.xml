@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="skywalking-webapp">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../X_plan/skywalking/dist/apache-skywalking-apm-bin/webapp/skywalking-webapp.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

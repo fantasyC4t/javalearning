@@ -15,6 +15,11 @@ public class BuildTest {
     }
 
     public static void main(String[] args) {
+        int i = 3;
+        if (i > 2) {
 
+        } else if (i == 3) {
+            System.out.println("do check here");
+        }
     }
 }

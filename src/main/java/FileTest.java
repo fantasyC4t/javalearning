@@ -13,7 +13,7 @@ import java.io.File;
  */
 public class FileTest {
     public static void main(String[] args) throws Exception {
-        File f = new File("/Users/th1s", "/../../../../../../etc/passwd");
+        File f = new File("/Users/th1s/", "/../../../../../../etc/passwd");
         if (f.canRead()) {
             byte[] byteResult = FileUtils.readFileToByteArray(f);
             String result = new String(byteResult);
