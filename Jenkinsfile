@@ -6,6 +6,5 @@ pipeline {
         sh 'touch /tmp/this_is_a_test_file'
       }
     }
-
   }
 }
